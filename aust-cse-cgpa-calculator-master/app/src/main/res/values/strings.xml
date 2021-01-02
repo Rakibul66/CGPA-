@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VU CSE CGPA Calculator</string>
+
+    <string-array name="semester">
+        <item>Select year and semester</item>
+        <item>1st year 1st semester</item>
+        <item>1st year 2nd semester</item>
+        <item>1st year 3rd semester</item>
+        <item>2nd year 1st semester</item>
+        <item>2nd year 2nd semester</item>
+        <item>2nd year 3rd semester</item>
+        <item>3rd year 1st semester</item>
+        <item>3rd year 2nd semester</item>
+        <item>3rd year 3rd semester</item>
+        <item>4th year 1st semester</item>
+        <item>4th year 2nd semester</item>
+        <item>4th year 3rd semester</item>
+    </string-array>
+</resources>
