@@ -28,3 +28,7 @@ calculate cgpa automatically.
 # Figure 2
 
 <img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201986282.png">
+
+# Figure 3
+
+<img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201990784.png">
