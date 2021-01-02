@@ -1,6 +1,8 @@
 # CGPA-
 An android native application which is calculate CGPA
 
+Download the app: https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/app/release/app-release.apk
+
 Students studying in Computer Science &
 Engineering department of Varendra University
  can calculate their CGPA
