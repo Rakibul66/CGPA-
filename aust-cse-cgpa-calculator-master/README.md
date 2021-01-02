@@ -16,3 +16,8 @@ number. Just modify and provide relevant
 information about subject name and credit
 number. The app will generate user interface and
 calculate cgpa automatically.
+
+# Figure 1
+
+<img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201981611.png">
+
