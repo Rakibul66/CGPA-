@@ -22,13 +22,16 @@ calculate cgpa automatically.
 
 # Figure 1
 
-<img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201981611.png">
+<img width="784" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201981611.png">
 
 
 # Figure 2
 
-<img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201986282.png">
+<img width="784" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201986282.png">
 
 # Figure 3
 
-<img width="884" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201990784.png">
+<img width="784" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201990784.png">
+# Figure 4
+
+<img width="784" alt="Question 1" src="https://github.com/Rakibul66/CGPA-/blob/main/aust-cse-cgpa-calculator-master/sc/1605201994988.png">
